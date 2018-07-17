@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689851993711",
+    "firebase_url": "https://tarufriendlychat.firebaseio.com",
+    "project_id": "tarufriendlychat",
+    "storage_bucket": "tarufriendlychat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689851993711:android:686f7e35a3831cf9",
+        "android_client_info": {
+          "package_name": "com.taru.android.tarufriendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689851993711-r3p08mndqslrq692s242alnmlu7k0b59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taru.android.tarufriendlychat",
+            "certificate_hash": "bb581b7fc84415f4ce387360e05e9e27b3f91c95"
+          }
+        },
+        {
+          "client_id": "689851993711-q853dir3pa3ieu4mf4enfkomqfomonb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlmDY-2sBA3zjWiM1v5g6hq-64OqUDQ_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689851993711-q853dir3pa3ieu4mf4enfkomqfomonb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
